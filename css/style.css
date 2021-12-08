@@ -20,7 +20,7 @@ html {
   }
 
 body{
-	height: 3000px;
+	height: 3200px;
 	background-image: linear-gradient(rgba(51, 63, 49), rgba(220, 164, 153));
     overflow-x: hidden;
   }
@@ -94,6 +94,9 @@ p{
 	margin-left: 20%;
 }
 
+.card{
+    border: none;
+}
 
 .container{
     width: 100%;
@@ -283,3 +286,8 @@ h4{
 	margin-right: auto;
 	padding-bottom: 7%;
 }
+
+footer{
+    background-color: #dca499;
+}
+
